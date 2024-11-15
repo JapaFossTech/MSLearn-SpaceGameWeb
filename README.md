@@ -1,3 +1,4 @@
+[![Build Status](https://javierfossati.visualstudio.com/SpaceGameWebCodeWorkflow/_apis/build/status%2FJapaFossTech.MSLearn-SpaceGameWeb?branchName=main)](https://javierfossati.visualstudio.com/SpaceGameWebCodeWorkflow/_build/latest?definitionId=1&branchName=main)
 
 # Contributing
 
